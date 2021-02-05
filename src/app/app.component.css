@@ -1,0 +1,32 @@
+body{
+    background-color:#dfe6e9;
+    font-family: 'Montserrat', sans-serif;
+}
+div.contenedor{
+    text-align: center;
+}
+div.contenedor form input{
+    border: 0;
+    border-bottom: 1px solid #74b9ff;
+    height: 40px;
+    display: block;
+    margin: 10px auto;
+    width: 300px;
+}
+div.contenedor button{
+    display: block;
+    text-align: center;
+    margin: auto;
+    background-color: #74b9ff;
+    color: #fff;
+    width: 300px;
+    height: 55px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    border: none;
+}
+div.contenedor.get{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+}
